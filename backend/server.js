@@ -1,1 +1,1 @@
-console.log("Hello word from server.js");
+console.log("Hello world from server.js!");
