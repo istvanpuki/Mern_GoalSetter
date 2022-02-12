@@ -19,6 +19,7 @@ app.use('/api/users', require('./routes/userRoutes'));
 //Overwrite the default express error handler
 app.use(errorHandler);
 
+
 app.listen(PORT, () => console.log(`Server Started on PORT ${PORT}`))
 
 
